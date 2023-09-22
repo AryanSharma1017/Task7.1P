@@ -1,0 +1,130 @@
+.Login{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    border: 2px solid rgb(9, 9, 222);
+    border-radius: 20px;
+    padding: 30px 60px;
+    margin-top: 210px;
+    color: white;
+}
+
+.d{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:center;
+    position:relative;
+    left: 10px;    
+}
+
+.d1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:center;
+    position:relative;
+    left: -33px;
+}
+
+.d1 p{
+    margin-left: 55px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+html{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main p{
+    color: white;
+    display: flex;
+    position: relative;
+    right:58px;
+}
+
+
+.main input{
+    /* width: 100%; */
+    padding: 10px 30px;
+    border-radius: 15px;
+    transition: all 0.5s ease-in;
+}
+
+.main input:hover{
+    /* width: 100%; */
+    padding: 10px 30px;
+    border-radius: 15px;
+    background-color: grey;
+    color: black;
+}
+
+
+.main button
+{
+    padding: 10px 25px;
+    border-radius: 20px;
+    /* width: 100%; */
+    margin-top: 20px;
+    transition: all 0.3s ease-in;
+    
+}
+
+.main2 button
+{
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    border: 2px solid rgb(9, 9, 222);
+    border-radius: 20px;
+    /* width: 100%; */
+    left: 80px;
+    position: relative;
+    margin-top: 20px;
+    transition: all 0.3s ease-in;
+    
+}
+
+.main button:hover
+{
+    padding: 10px 95px;
+    border-radius: 20px;
+    margin-top: 20px;
+    /* margin-left: 100px; */
+    background-color: black;
+    color: whitesmoke;
+}
+.main2 button:hover
+{
+    padding: 10px 35px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+
+.btn
+{
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    border: 2px solid rgb(9, 9, 222);
+    border-radius: 20px;
+    /* width: 100%; */
+    /* left: 80px */
+    position: relative;
+    margin-top: 20px;
+    transition: all 0.3s ease-in;
+    
+}
+

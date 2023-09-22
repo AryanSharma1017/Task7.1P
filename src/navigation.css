@@ -1,0 +1,45 @@
+.Top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 70px;
+    border: 7px solid whitesmoke;
+    border-radius: 12px;
+    color: whitesmoke;
+    margin-top: 20px;
+}
+
+.Top button{
+    border-radius: 23px;
+    padding: 10px 30px;
+}
+
+.btn1{
+    margin: 0px 10px;
+}
+
+.Top button:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+
+
+.Home{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+html{
+    background-color: black;
+}
+
+
+.searchBar{
+    margin: 0px 15px;
+}
+
+.searchBar input{
+    padding: 10px 150px;
+    border-radius: 23px;
+}
